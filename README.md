@@ -8,7 +8,7 @@ GET /filteredimage?image_url={{IMAGE_URL}}
 
 ## Example
 
-/filteredimage?image_url=https://upload.wikimedia.org/wikipedia/commons/9/9a/Gull_portrait_ca_usa.jpg
+http://image-filter-env.eba-metrshk8.us-east-1.elasticbeanstalk.com/filteredimage?image_url=https://upload.wikimedia.org/wikipedia/commons/9/9a/Gull_portrait_ca_usa.jpg
 
 ## Deployment
 
